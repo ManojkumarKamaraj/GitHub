@@ -1,1 +1,1 @@
-This is a Deso Repository for Manoj_Sample Github
+This is a Demo Repository for Manoj_Sample Github
